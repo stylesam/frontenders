@@ -175,7 +175,7 @@ JavaScript-разработчик в [Букинге](https://booking.com). Ав
 
 Организатор митапа [MoscowJS](http://moscowjs.ru), конференции [Frontend Union Conf](http://frontend-union.co), со-ведущий подкаста [RadioJS](radiojs.ru).
 
-[личный сайт](http://andreysalomatin.me/), [@filipovskii](https://twitter.com/filipovskii), [github](https://github.com/filipovskii)
+[личный сайт](http://andreysalomatin.me/), [@flpvsk](https://twitter.com/flpvsk), [github](https://github.com/flpvsk)
 
 ### Сапегин Артём
 
